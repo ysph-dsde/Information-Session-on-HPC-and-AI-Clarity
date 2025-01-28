@@ -16,3 +16,16 @@ Yale's Public Health Data Science and Data Equity (DSDE) team created this works
 
 
 You can find out more about past and upcoming tutorials on our YouTube (coming soon) and [website](https://ysph.yale.edu/public-health-research-and-practice/research-centers-and-initiatives/public-health-data-science-and-data-equity/events/). If you are affiliated with Yale, you can set up an office hour appointment with one of the data scientists ([Bookings Page](https://outlook.office365.com/owa/calendar/DataScienceDataEquityOfficeHours@yale.edu/bookings/)).
+
+
+## Links
+
+### Yale Center for Research Computing (YCRC)
+- Website: https://research.computing.yale.edu/
+- Documentation: https://docs.ycrc.yale.edu/data/
+- Contact YCRC: research.computing@yale.edu
+
+### Clarity
+
+- Homepage: https://ai.yale.edu/yales-ai-tools-and-resources/clarity-platform
+- User Guide: https://ai.yale.edu/yales-ai-tools-and-resources/clarity-platform/get-started-with-claritys-ai-chatbot
